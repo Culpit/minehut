@@ -1,0 +1,22 @@
+{
+  "name": "minehut",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Culpit/minehut.git"
+  },
+  "keywords": [
+    "minehut",
+    "api",
+    "package",
+    "npm",
+    "client"
+  ],
+  "authors": ["Culpit", "DeltaRays"],
+  "license": "MIT",
+  "homepage": "https://github.com/Culpit/minehut#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
