@@ -17,6 +17,6 @@
   "license": "MIT",
   "homepage": "https://github.com/Culpit/minehut#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
